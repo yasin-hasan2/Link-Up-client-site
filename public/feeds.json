@@ -1,0 +1,87 @@
+[
+  {
+    "id": "post_id_1",
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "article": "Just had a fantastic day at the beach! ☀️🌊",
+    "author_image": "https://example.com/alice_profile.jpg",
+    "time": "2023-11-19T13:45:00Z",
+    "comments": [
+      {
+        "id": "comment_id_1",
+        "user": "John Doe",
+        "comment": "Sounds amazing! I love the beach too."
+      },
+      {
+        "id": "comment_id_2",
+        "user": "Jane Doe",
+        "comment": "Wish I could have been there!"
+      }
+    ],
+    "likes": 3
+  },
+  {
+    "id": "post_id_2",
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "article": "Excited to announce my new blog post on technology trends. Check it out!",
+    "author_image": "https://example.com/bob_profile.jpg",
+    "time": "2023-11-19T14:20:00Z",
+    "comments": [
+      {
+        "id": "comment_id_3",
+        "user": "Alice Smith",
+        "comment": "Great read, Bob! I enjoyed it."
+      }
+    ],
+    "likes": 2
+  },
+  {
+    "id": "post_id_3",
+    "name": "Eva Williams",
+    "email": "eva.williams@example.com",
+    "article": "Enjoying a cup of coffee and a good book on a lazy Sunday afternoon. ☕📖",
+    "author_image": "https://example.com/eva_profile.jpg",
+    "time": "2023-11-19T15:10:00Z",
+    "comments": [
+      {
+        "id": "comment_id_4",
+        "user": "Bob Johnson",
+        "comment": "Sounds like a perfect Sunday!"
+      }
+    ],
+    "likes": 1
+  },
+  {
+    "id": "post_id_4",
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "article": "Just completed a 10k run. Feeling accomplished and ready for more challenges!",
+    "author_image": "https://example.com/charlie_profile.jpg",
+    "time": "2023-11-19T16:05:00Z",
+    "comments": [
+      {
+        "id": "comment_id_5",
+        "user": "Eva Williams",
+        "comment": "Wow, that's impressive! I need some motivation to start running."
+      }
+    ],
+    "likes": 5
+  },
+  {
+    "id": "post_id_5",
+    "name": "Grace Miller",
+    "email": "grace.miller@example.com",
+    "article": "Attended an amazing concert last night. The energy was incredible! 🎶",
+    "author_image": "https://example.com/grace_profile.jpg",
+    "time": "2023-11-19T17:30:00Z",
+    "comments": [
+      {
+        "id": "comment_id_6",
+        "user": "Charlie Brown",
+        "comment": "I bet it was! Who performed?"
+      }
+    ],
+    "likes": 1
+  }
+]

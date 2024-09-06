@@ -1,0 +1,10 @@
+.logo{
+    background: #e0e0e0;
+    box-shadow: 10px 10px 50px #bebebe,
+                  -10px -10px 50px #ffffff;
+}
+.loading-gradient{
+    background-color:white;
+    background-image: radial-gradient(at 88% 99%, rgb(220, 235, 244) 0, transparent 68%), radial-gradient(at 98% 36%, rgb(238, 240, 246) 0, transparent 42%), radial-gradient(at 19% 74%, rgb(224, 236, 243) 0, transparent 75%), radial-gradient(at 51% 99%, rgb(219, 225, 234) 0, transparent 28%), radial-gradient(at 20% 49%, white 0, transparent 63%);
+  
+}
